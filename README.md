@@ -37,3 +37,16 @@ The goal is to provide a hands-on understanding of **data engineering principles
 - **SQL**
 
 ---
+
+## Data Aarchitecture diagram
+
+![Alt text](images/data_architecture_diagram.jpg)
+
+
+---
+
+## Data Model diagram
+
+![Alt text](images/data_model_diagram.jpg)
+
+---
